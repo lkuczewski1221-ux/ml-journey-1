@@ -1,10 +1,29 @@
 # Moja Podróż AI/ML 🚀
 
+## 🔥 Aktualny status (czytaj to przy każdej nowej sesji)
+
+**Ostatnia duża sesja:** Reorganizacja folderu + commit na GitHub  
+**Aktualnie pracujemy nad:** **Dzień 3 – Struktury Danych**  
+**Plik z ćwiczeniami:** `python_fundamentals/day03_data_structures.py`  
+**Stan:** 4 zadania do rozwiązania (listy, krotki, słowniki, zbiory)
+
+### Jak szybko wrócić do kontekstu (nawet przy długim czacie)
+1. Przeczytaj tę sekcję na górze README
+2. Przeczytaj najnowszy wpis w `notes/learning_log.md`
+3. Otwórz aktualny plik z ćwiczeniami (`python_fundamentals/day0X_....py`)
+4. Sprawdź `git status` i ostatnie commity
+
+**Zasada:** README + `notes/learning_log.md` + kod na dysku = nasza pamięć. Nawet jeśli kontekst czatu się skróci.
+
+---
+
 ## 📁 Struktura folderu (aktualna)
 
 ```
 ml-journey-1/
-├── README.md
+├── README.MD
+├── notes/
+│   └── learning_log.md
 ├── python_fundamentals/          ← Tu robimy solidne podstawy
 │   ├── day01_introduction.py
 │   ├── day02_variables_operators.py
@@ -67,6 +86,7 @@ ml-journey-1/
 - Najpierw solidne podstawy Pythona, dopiero potem głębiej w ML.
 - Zaawansowane rzeczy (PyTorch, sieci neuronowe itd.) wrzucamy do `experiments/` i wracamy do nich później.
 - Ćwiczenia rozwiązujemy świadomie — nie kopiujemy na ślepo.
+- Dokumentujemy postępy w README i `notes/learning_log.md`, żeby łatwo wracać do kontekstu.
 
 ---
 
