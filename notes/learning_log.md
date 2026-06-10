@@ -33,6 +33,32 @@ Ten plik pomaga nam pamiętać na czym skończyliśmy, szczególnie przy długic
 
 ---
 
+## 2026-06-09 - Ukończenie Dnia 3 – Struktury Danych
+
+**Co zrobiliśmy:**
+- Rozwiązaliśmy wszystkie 4 zadania z `day03_data_structures.py`:
+  1. Listy – stworzenie listy `epoki_treningowe` + użycie `len()` i indeksowania
+  2. Krotki – stworzenie krotki z współrzędnymi GPS + demonstracja, że są niemodyfikowalne (brak `.append()`)
+  3. Słowniki – stworzenie słownika `moj_komputer` i dostęp do wartości po kluczu
+  4. Zbiory – konwersja list na sety + użycie operatora `|` do uzyskania unikalnych słów z dwóch tekstów
+- Omówiliśmy praktyczne zastosowania każdej struktury, szczególnie w kontekście ML (hiperparametry, zbieranie lossów, unikalne tagi/słowa, niemutowalne dane jak wymiary)
+- Ćwiczyliśmy wzorzec `pusta_lista + .append()` w pętlach
+
+**Aktualny stan nauki:**
+- Dzień 1, Dzień 2 i **Dzień 3 – Struktury Danych** — ukończone
+- Plik: `python_fundamentals/day03_data_structures.py` — wszystkie zadania rozwiązane
+- Folder jest dobrze zorganizowany, dokumentacja (README + learning_log) jest aktualna
+
+**Następny krok:**
+- Przejść do Dnia 4 – Pętle i Warunki (if, for, while)
+- Po zakończeniu Dnia 4 zaktualizować ten log i README
+
+**Notatki:**
+- Użytkownik szybko przyswaja materiał i chce iść dalej strukturalnie.
+- Dobrze rozumie różnice między listami, krotkami, słownikami i zbiorami.
+
+---
+
 ## Szablon wpisu na przyszłość
 
 ```

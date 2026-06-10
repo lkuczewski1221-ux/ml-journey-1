@@ -2,10 +2,10 @@
 
 ## 🔥 Aktualny status (czytaj to przy każdej nowej sesji)
 
-**Ostatnia duża sesja:** Reorganizacja folderu + commit na GitHub  
-**Aktualnie pracujemy nad:** **Dzień 3 – Struktury Danych**  
-**Plik z ćwiczeniami:** `python_fundamentals/day03_data_structures.py`  
-**Stan:** 4 zadania do rozwiązania (listy, krotki, słowniki, zbiory)
+**Ostatnia duża sesja:** Ukończenie Dnia 3 – Struktury Danych (wszystkie 4 zadania)  
+**Aktualnie pracujemy nad:** Dzień 4 – Pętle i Warunki (planowane)  
+**Plik z ćwiczeniami:** `python_fundamentals/day03_data_structures.py` (zakończony)  
+**Stan:** Dzień 3 ukończony ✅
 
 ### Jak szybko wrócić do kontekstu (nawet przy długim czacie)
 1. Przeczytaj tę sekcję na górze README
@@ -53,10 +53,10 @@ ml-journey-1/
 - ✅ Podstawowe operacje na tekście (metody, f-stringi)
 
 ### Dzień 3 - Struktury Danych
-- 📝 **W toku** — Listy (lists) i krotki (tuples)
-- 📝 **W toku** — Słowniki (dictionaries)
-- 📝 **W toku** — Zbiory (sets)
-- 📄 Plik: `python_fundamentals/day03_data_structures.py`
+- ✅ Ukończone — Listy (lists) i krotki (tuples)
+- ✅ Ukończone — Słowniki (dictionaries)
+- ✅ Ukończone — Zbiory (sets)
+- 📄 Plik: `python_fundamentals/day03_data_structures.py` (wszystkie zadania rozwiązane)
 
 ### Dzień 4 - Pętle i Warunki
 - 📝 Instrukcje warunkowe (if, elif, else)
