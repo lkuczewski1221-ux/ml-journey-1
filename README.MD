@@ -3,9 +3,9 @@
 ## 🔥 Aktualny status (czytaj to przy każdej nowej sesji)
 
 **Ostatnia duża sesja:** Ukończenie Dnia 3 – Struktury Danych (wszystkie 4 zadania)  
-**Aktualnie pracujemy nad:** Dzień 4 – Pętle i Warunki (planowane)  
-**Plik z ćwiczeniami:** `python_fundamentals/day03_data_structures.py` (zakończony)  
-**Stan:** Dzień 3 ukończony ✅
+**Aktualnie pracujemy nad:** **Dzień 4 – Pętle i Warunki**  
+**Plik z ćwiczeniami:** `python_fundamentals/day04_loops_and_conditions.py`  
+**Stan:** Dzień 4 w toku 📝
 
 ### Jak szybko wrócić do kontekstu (nawet przy długim czacie)
 1. Przeczytaj tę sekcję na górze README
@@ -59,9 +59,10 @@ ml-journey-1/
 - 📄 Plik: `python_fundamentals/day03_data_structures.py` (wszystkie zadania rozwiązane)
 
 ### Dzień 4 - Pętle i Warunki
-- 📝 Instrukcje warunkowe (if, elif, else)
-- 📝 Pętle for (iteracja po danych)
-- 📝 Pętle while
+- 📝 **W toku** — Instrukcje warunkowe (if, elif, else)
+- 📝 **W toku** — Pętle for (iteracja po danych)
+- 📝 **W toku** — Pętle while
+- 📄 Plik: `python_fundamentals/day04_loops_and_conditions.py`
 
 ### Dzień 5 - Funkcje
 - 📝 Planowane

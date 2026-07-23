@@ -59,6 +59,25 @@ Ten plik pomaga nam pamiętać na czym skończyliśmy, szczególnie przy długic
 
 ---
 
+## 2026-06-09 - Start Dnia 4 – Pętle i Warunki
+
+**Co zrobiliśmy:**
+- Stworzyliśmy plik `python_fundamentals/day04_loops_and_conditions.py`
+- Omówiliśmy i uruchomiliśmy przykłady:
+  - Warunki if / elif / else (w tym prosty early stopping)
+  - Pętla for + range + enumerate
+  - Pętla while + break
+- Rozwiązaliśmy 4 zadania w pliku (warunki, for, while, połączenie warunków + pętli z early stopping)
+
+**Aktualny stan:**
+- Dzień 4 w toku
+- Plik: `python_fundamentals/day04_loops_and_conditions.py`
+
+**Następny krok:**
+- Przejść przez zadania razem lub omówić konkretne części (warunki / pętle)
+
+---
+
 ## Szablon wpisu na przyszłość
 
 ```

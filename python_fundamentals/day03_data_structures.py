@@ -27,7 +27,11 @@ print(f"Zaktualizowana lista: {modele_ai}")
 # i wydrukuj jej drugi element oraz długość listy (użyj funkcji len()).
 # Twój kod poniżej:
 
+# Rozwiązanie Zadania 1
+epoki_treningowe = [10, 20, 30, 50, 100]          # 5 przykładowych wartości epok
 
+print(f"Drugi element listy: {epoki_treningowe[1]}")   # indeks 1 = drugi element (Python liczy od 0)
+print(f"Długość listy: {len(epoki_treningowe)}")
 
 # ------------------------------------------
 # 2. KROTKI (Tuples) - Niezmienne (immutable)
@@ -45,7 +49,16 @@ print(f"Wymiary obrazu do analizy: {wymiary_obrazu}")
 # użyć `.append()` na krotce.
 # Twój kod poniżej:
 
+# Rozwiązanie Zadania 2
+wspolrzedne_gps = (52.2297, 21.0122)  # przykład: Warszawa (szerokość, długość)
 
+print(f"Współrzędne GPS: {wspolrzedne_gps}")
+
+# Demonstracja, że krotki są niemodyfikowalne
+try:
+    wspolrzedne_gps.append(0.0)
+except AttributeError:
+    print("Błąd: Nie można wywołać .append() na krotce (tuple jest immutable)")
 
 # ------------------------------------------
 # 3. SŁOWNIKI (Dictionaries) - Klucz-Wartość
@@ -71,7 +84,14 @@ print(f"Słownik po dodaniu epok: {hiperparametry}")
 # Wydrukuj wartość klucza 'ram_gb'.
 # Twój kod poniżej:
 
+# Rozwiązanie Zadania 3
+moj_komputer = {
+    'procesor': "M5",
+    'ram_gb': 24,
+    'czy_gpu_wlaczone': True
+}
 
+print(f"Rozmiar RAM w Twoim komputerze: {moj_komputer['ram_gb']} GB")
 
 # ------------------------------------------
 # 4. ZBIORY (Sets) - Unikalne elementy
@@ -91,6 +111,11 @@ tekst_1 = ["AI", "to", "przyszłość"]
 tekst_2 = ["AI", "uczy", "się"]
 # Twój kod poniżej:
 
+# Rozwiązanie Zadania 4
+set1 = set(tekst_1)
+set2 = set(tekst_2)
+unikalne_slowa = set1 | set2   # | oznacza sumę zbiorów (union)
 
+print(f"Unikalne słowa z obu tekstów: {unikalne_slowa}")
 
 print("\nSuper! Jak uzupełnisz kod, po prostu uruchom go lub wklej mi rozwiązanie, a omówimy wyniki! 🚀")
